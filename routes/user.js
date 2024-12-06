@@ -46,4 +46,4 @@ router
 
 router.get("/logout", userController.logout);
 
-module.exports = router;
+module.exports = router; //Exporting route
